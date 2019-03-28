@@ -1,5 +1,4 @@
 # WebBrowser
-CPSC 2713: Software Construction Fundamentals (Final Project)
 
 # Author
 @author Robert Goodson (rtg0012@tigermail.auburn.edu)
